@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghav
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 Enthusiastic
 - 📫 How to reach me raghavkanungo234@gmail.com
 
 <!---
